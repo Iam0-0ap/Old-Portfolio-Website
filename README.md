@@ -1,3 +1,3 @@
 # Old-Portfolio-Website
 This was my Old Portfolio Website. 
-Click the link below to open the site live:
+This is currently hosted with Github Pages. Click the link below to open the site live:
